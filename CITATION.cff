@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo con estos metadatos."
+title: "CrianzIA"
+type: software
+authors:
+  - family-names: "Borrás Rocher"
+    given-names: "Fernando"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-5519-4573"
+  - family-names: "Angel Armas"
+    given-names: "Jose Alfonso"
+    affiliation: "Universidad Politécnica Estatal del Carchi"
+    orcid: "https://orcid.org/0009-0001-4066-1028"
+doi: "10.5281/zenodo.24089483"
+version: "1.0.0"
+date-released: "2026-11-09"
+url: "https://fborrasumh.github.io/crianzia/"
+repository-code: "https://github.com/fborrasumh/crianzia"
+license: MIT
