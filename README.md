@@ -4,6 +4,8 @@ Sistemas de producción de especies menores y acuícolas: cerdos, cuyes, conejos
 
 **Usar la app:** https://fborrasumh.github.io/crianzia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24089483.svg)](https://doi.org/10.5281/zenodo.24089483)
+
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Qué hace
@@ -53,7 +55,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. y Angel Armas, J. A. (2026). *CrianzIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. y Angel Armas, J. A. (2026). *CrianzIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.24089483](https://doi.org/10.5281/zenodo.24089483)
 
 ## Licencia
 
